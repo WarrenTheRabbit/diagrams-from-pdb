@@ -1,5 +1,5 @@
 # diagrams-from-pdb
-A repository stub for automating sequence diagram creation as pdb runs.
+A repository stub for automating sequence diagram creation as *[pdb](https://realpython.com/python-debugging-pdb/)* runs.
 
 #### Example 
 
